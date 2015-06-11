@@ -1,7 +1,5 @@
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 # React Comments Tutorial
 
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).  The source can be found [on GitHub](https://github.com/reactjs/react-tutorial/).
